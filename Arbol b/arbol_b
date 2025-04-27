@@ -1,0 +1,3 @@
+digraph {
+	R [label="23|34|56|56|65|78|90|99" shape=record]
+}
